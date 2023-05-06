@@ -1,10 +1,12 @@
-Hi, I’m @creakycrayon
+Hi, I’m @williamorban
 
-Most people call me creaky. 
+Most people call me Will. 
 
-I’m interested in software development.
+I’m interested in software development as well as UX/UI design.
 
 I’m currently learning 
-JS.
+Python.
 How to reach me:
-Discord: CreakyCrayon#0001
+Email: william@williamorban.dev
+
+Thank you for checking out my profile! :)
